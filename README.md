@@ -121,7 +121,7 @@ MongoDB ≥ 6.x → descargar o cuenta en MongoDB Atlas
 
 1. Clonar el repositorio
 bash
-git clone https://github.com/jdthgp27/API-RESTful-Gesti-n-de-Usuarios.git
+git clone https://github.com/everest9957/API-RESTful-Gesti-n-de-Usuarios.git
 cd API-RESTful-Gesti-n-de-Usuarios
 2. Instalar dependencias
 bash
@@ -226,9 +226,9 @@ Esta API es una versión inicial con fines educativos. Para producción habría 
 👤 Autor
 Judit Giravent Pineda
 
-GitHub: @jdthgp27
+GitHub: @everest9957
 
-Email: jdthgp27@gmail.com
+Email: everest9957@gmail.com
 
 📄 Licencia
 Este proyecto está bajo la Licencia MIT.
